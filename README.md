@@ -33,6 +33,7 @@ I've always been fascinated by the power of technology and the emotion we can ev
 <img align="left" alt="Jira" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" />
 <img align="left" alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <br/>
+<br/>
 
 ---
 
