@@ -39,7 +39,8 @@ I've always been fascinated by the power of technology and the emotion we can ev
 
 ### 💻 Even cooler stuff I've worked on
 
-* [Paint App](https://jjbajor.github.io/Paint-App/): This is a fun program I created to simulate popular computer painting programs. Try it out!
+* [Bug Squish Game](https://jjbajor.github.io/Bug-Squish-Game/): In this game, you have to squish all the bugs before time runs out! 🕷
+* [Paint App](https://jjbajor.github.io/Paint-App/): This is a fun program I created to simulate popular computer painting programs. Try it out! 🎨
 
 🚨🚧 This section is still under construction! Check back soon to see more cool things I've created online. 🚧🚨
 
