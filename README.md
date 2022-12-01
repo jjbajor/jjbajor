@@ -1,4 +1,4 @@
-# 🐉 John Bajor
+# 🔥🧙 John Bajor 🐉🔥
 
 <div id="header" align="center">
     <img src="https://raw.githubusercontent.com/jjbajor/jjbajor/main/Header.JPG" width="100%"/>
