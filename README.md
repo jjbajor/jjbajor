@@ -40,6 +40,7 @@ I've always been fascinated by the power of technology and the emotion we can ev
 
 ### 💻 Even cooler stuff I've worked on
 
+* [BlackJack Game](https://jjbajor.github.io/BlackJack-Game/): This is a BlackJack game I created in Unity! Are you feeling lucky? 🎰
 * [Bug Squish Game](https://jjbajor.github.io/Bug-Squish-Game/): In this game, you have to squish all the bugs before time runs out! 🕷
 * [Paint App](https://jjbajor.github.io/Paint-App/): This is a fun program I created to simulate popular computer painting programs. Try it out! 🎨
 
