@@ -6,7 +6,7 @@
 
 <br/>
 
-Hey there! My name is John Bajor. I'm a junior at Louisiana State University pursuing a major in Computer Science and a minor in Digital Media Arts & Engineering in Technology (What a mouthful. In normal person terms: I create tech & make it fun to use!)
+Hey there! My name is John Bajor. I'm a junior at Louisiana State University pursuing a major in Computer Science and a minor in Digital Media Arts & Engineering in Technology, and I currently act as Head of Design and Co-Founder of <a href='https://www.zenithsoftware.dev/'>Zenith Software</a>. (What a mouthful. In normal person terms: I create tech & make it fun to use!)
 
 I've always been fascinated by the power of technology and the emotion we can evoke through meaningful art. Ever since I was a child, I have always loved tinkering with computers and creating fun & interesting media for people to enjoy. Naturally, this creative desire has stuck with me through college and has allowed me to develop my skills through many amazing opportunities, both personally and professionally. So far, I've...
 
