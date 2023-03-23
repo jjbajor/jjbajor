@@ -28,12 +28,9 @@ I've always been fascinated by the power of technology and the emotion we can ev
 <img align="left" alt="GitHub" width="36px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="TypeScript" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="NodeJS" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="left" alt="C" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" alt="Matlab" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" />
 <img align="left" alt="VS Code" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Jira" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" />
-<img align="left" alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" alt="C#" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Unity" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="Photoshop" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
