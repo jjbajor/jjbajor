@@ -52,8 +52,8 @@ I've always been fascinated by the power of technology and the emotion we can ev
 
 ### 📊 Stats
 
-![John Bajor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjbajor&theme=codeSTACKr&show_icons=true)
-![John Bajor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjbajor&theme=codeSTACKr&show_icons=true)
+![John Bajor's GitHub stats](https://github-readme-stats-john-bajors-projects.vercel.app/api?username=jjbajor&theme=codeSTACKr&show_icons=true)
+![John Bajor's GitHub stats](https://github-readme-stats-john-bajors-projects.vercel.app/api/top-langs/?username=jjbajor&theme=codeSTACKr&show_icons=true)
 
 ---
 
