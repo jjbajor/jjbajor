@@ -6,15 +6,18 @@
 
 <br/>
 
-Hey there! My name is John Bajor. I'm a junior at Louisiana State University pursuing a major in Computer Science and a minor in Digital Media Arts & Engineering in Technology, and I currently act as Head of Design and Co-Founder of <a href='https://www.zenithsoftware.dev/'>Zenith Software</a>. (What a mouthful. In normal person terms: I create tech & make it fun to use!)
+### Hey there!
+My name is **John Bajor**. I'm a 23-year-old software developer currently based in New Orleans, LA. I graduated from <a href='https://www.lsu.edu/'>Louisiana State University</a> in 2024 with a Bachelor's in <a href='https://dmae.lsu.edu/'>Computer Science</a> and a Minor in <a href='https://dmae.lsu.edu/academics'>Digital Media Arts & Engineering</a>.
 
-I've always been fascinated by the power of technology and the emotion we can evoke through meaningful art. Ever since I was a child, I have always loved tinkering with computers and creating fun & interesting media for people to enjoy. Naturally, this creative desire has stuck with me through college and has allowed me to develop my skills through many amazing opportunities, both personally and professionally. So far, I've...
+I have always loved creating things that excite others, like <a href='https://www.youtube.com/@theweeklydetour'>YouTube</a> videos in my room, a 7-year-long <a href='https://www.dndbeyond.com/'>Dungeons & Dragons</a> campaign with my friends (yes, really), and <a href='https://www.zenithsoftware.dev/'>Zenith Software</a>, a software development company I founded with my friends in college.
+
+So far, I've...
 
 <ul>
     <li>Co-Founded <a href='https://www.zenithsoftware.dev/'>Zenith Software</a> at age 19 with my best friends 💻</li>
-    <li>Gained industry experience through software/web development internships 🏆</li>
+    <li>Gained industry experience through software/web development positions 🏆</li>
     <li>Designed & Developed multiple software products for various companies across the United States 🚀</li>
-    <li>Managed to keep you on my page for this long... look at us! We've come so far as friends, you and I 🧡</li>
+    <li>Managed to keep you on my page for this long... look at us! We've come so far as friends, you and I ❤️</li>
 </ul>
 
 ---
@@ -28,7 +31,7 @@ I've always been fascinated by the power of technology and the emotion we can ev
 <img align="left" alt="GitHub" width="36px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="TypeScript" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="C" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" alt="C" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Jira" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" />
 <img align="left" alt="C#" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Unity" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
@@ -42,11 +45,24 @@ I've always been fascinated by the power of technology and the emotion we can ev
 
 ### 💻 Even cooler stuff I've worked on
 
+#### Websites
+* [JohnBajor.dev](https://johnbajor.dev/): My personal website, showcasing my portfolio, news articles, testimonials, and more! 🧙‍♂️
+* [OutlawDefense.com](https://www.outlawdefense.com/): A React-based website for a criminal defense practice in Houston, TX. ⚖️
+* [SpeakEasyBandBR.com](https://www.speakeasybandbr.com/): A digital showcase for my band, featuring our music and photos. 🎸
+* [OmarRamirezMusic.com](https://www.omarramirezmusic.com/): A portfolio site for NOLA-based professor and musician, Omar Ramirez. 🎺
+
+#### Apps
+* [Dio Mobile Ordering](https://zenithsoftware.dev/projectdescription?projectName=dio): Ditch the lines on your night out. Order your drinks ahead to skip the wait! 🍻
+* [Earshot](https://apps.apple.com/us/app/earshot-proximity-chat/id6471038992): Experience the pulse of your surroundings through Earshot's location-based chatrooms. 👂🏻
+* [Aura](https://dashboard.auraadco.com/): Aura's powerful dashboard brings real-time insights to cartop advertising campaigns. 🚕
+
+#### Games
 * [BlackJack Game](https://jjbajor.github.io/BlackJack-Game/): This is a BlackJack game I created in Unity! Are you feeling lucky? 🎰
 * [Bug Squish Game](https://jjbajor.github.io/Bug-Squish-Game/): In this game, you have to squish all the bugs before time runs out! 🕷
 * [Paint App](https://jjbajor.github.io/Paint-App/): This is a fun program I created to simulate popular computer painting programs. Try it out! 🎨
 
-🚨🚧 This section is still under construction! Check back soon to see more cool things I've created online. 🚧🚨
+<br/>
+🚨🚧 This section is still under construction! Check back periodically to see more cool things I've created online. 🚧🚨
 
 ---
 
@@ -54,20 +70,3 @@ I've always been fascinated by the power of technology and the emotion we can ev
 
 ![John Bajor's GitHub stats](https://github-readme-stats-john-bajors-projects.vercel.app/api?username=jjbajor&theme=codeSTACKr&show_icons=true)
 ![John Bajor's GitHub stats](https://github-readme-stats-john-bajors-projects.vercel.app/api/top-langs/?username=jjbajor&theme=codeSTACKr&show_icons=true)
-
----
-
-<h3>📖 My Story</h3>
-Minecraft is the reason I do what I do.
-<br/>
-<br/>
-Alright, I know that sounds silly, but let me explain. When I was a kid, I always loved to play video games. Shocker, right? Up until college, I always hopped on xbox after school with friends to blow off steam and make some memories. We would play an assortment of games, including Call of Duty, Overwatch, Destiny, Halo, etc. These games all formed the foundation of my childhood, but none more than Minecraft did.
-<br/>
-<br/>
-With hundreds of blocks & textures, the possibilities of creation are truly endless. I began my journey by following building tutorials on YouTube. Honestly, my builds looked terrible at first. But through years of honing my building skills and styles, I began to construct amazing creations. Villages, castles, rocket ships, boats, dragons, and more; you name it, I've built it. Upon experimenting with redstone, which eventually sparked my curiosity with circuits and computers, I could truly call myself quite an experienced builder.
-<br/>
-<br/>
-This curiosity & desire to create awesome things with tech eventually brought me to the obvious subject to study: computers. Specifically, the creative side of technology and design. Through college, I've taken some amazing classes and have been lucky enough to work with some extremely talented people. I'm so excited to see what the future has in store for me.
-<br/>
-<br/>
-Thanks for reading this far. Heres a cookie. 🍪
