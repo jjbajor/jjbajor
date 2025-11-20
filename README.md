@@ -46,20 +46,36 @@ So far, I've...
 ### 💻 Even cooler stuff I've worked on
 
 #### Websites
-* [JohnBajor.dev](https://johnbajor.dev/): My personal website, showcasing my portfolio, news articles, testimonials, and more! 🧙‍♂️
-* [OutlawDefense.com](https://www.outlawdefense.com/): A React-based website for a criminal defense practice in Houston, TX. ⚖️
-* [SpeakEasyBandBR.com](https://www.speakeasybandbr.com/): A digital showcase for my band, featuring our music and photos. 🎸
-* [OmarRamirezMusic.com](https://www.omarramirezmusic.com/): A portfolio site for NOLA-based professor and musician, Omar Ramirez. 🎺
+<a href="https://johnbajor.dev/">![JohnBajor.dev](https://img.shields.io/badge/johnbajor.dev-online-green?style=flat)</a> My personal website, showcasing my portfolio, news articles, testimonials, and more! 🧙‍♂️
+
+<a href="https://outlawdefense.com/">![OutlawDefense.com](https://img.shields.io/badge/outlawdefense.com-online-green)</a>
+ A React-based website for a criminal defense practice in Houston, TX. ⚖️
+
+<a href="https://speakeasybandbr.com/">![SpeakEasyBandBR.com](https://img.shields.io/badge/speakeasybandbr.com-online-green)</a>
+ A digital showcase for my band, featuring our music and photos. 🎸
+
+<a href="https://omarramirezmusic.com/">![OmarRamirezMusic.com](https://img.shields.io/badge/omarramirezmusic.com-online-green)</a>
+ A portfolio site for NOLA-based professor and musician, Omar Ramirez. 🎺
 
 #### Apps
-* [Dio Mobile Ordering](https://zenithsoftware.dev/projectdescription?projectName=dio): Ditch the lines on your night out. Order your drinks ahead to skip the wait! 🍻
-* [Earshot](https://apps.apple.com/us/app/earshot-proximity-chat/id6471038992): Experience the pulse of your surroundings through Earshot's location-based chatrooms. 👂🏻
-* [Aura](https://dashboard.auraadco.com/): Aura's powerful dashboard brings real-time insights to cartop advertising campaigns. 🚕
+<a href="https://zenithsoftware.dev/projectdescription?projectName=dio">![Dio](https://img.shields.io/badge/dio-beta-yellow)</a>
+ Ditch the lines on your night out. Order your drinks ahead to skip the wait! 🍻
+
+<a href="https://apps.apple.com/us/app/earshot-proximity-chat/id6471038992">![Earshot](https://img.shields.io/badge/earshot-online-green)</a>
+ Experience the pulse of your surroundings through Earshot's location-based chatrooms. 👂🏻
+
+<a href="https://dashboard.auraadco.com/">![Aura](https://img.shields.io/badge/aura-online-green)</a>
+ Aura's powerful dashboard brings real-time insights to cartop advertising campaigns. 🚕
 
 #### Games
-* [BlackJack Game](https://jjbajor.github.io/BlackJack-Game/): This is a BlackJack game I created in Unity! Are you feeling lucky? 🎰
-* [Bug Squish Game](https://jjbajor.github.io/Bug-Squish-Game/): In this game, you have to squish all the bugs before time runs out! 🕷
-* [Paint App](https://jjbajor.github.io/Paint-App/): This is a fun program I created to simulate popular computer painting programs. Try it out! 🎨
+<a href="https://jjbajor.github.io/BlackJack-Game/">![BlackJack Game](https://img.shields.io/badge/blackjack-online-green)</a>
+ This is a BlackJack game I created in Unity! Are you feeling lucky? 🎰
+
+<a href="https://jjbajor.github.io/Bug-Squish-Game/">![Bug Squish Game](https://img.shields.io/badge/bug%20squish-online-green)</a>
+ In this game, you have to squish all the bugs before time runs out! 🕷
+
+<a href="https://jjbajor.github.io/Paint-App/">![Paint App](https://img.shields.io/badge/paint%20app-online-green)</a>
+ This is a fun program I created to simulate popular computer painting programs. Try it out! 🎨
 
 <br/>
 🚨🚧 This section is still under construction! Check back periodically to see more cool things I've created online. 🚧🚨
