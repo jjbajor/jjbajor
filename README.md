@@ -6,6 +6,10 @@
 
 <br/>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=41211f&center=true&vCenter=true&width=435&lines=Software+Developer;UI%2FUX+Designer;Project+Manager" alt="Typing SVG" /></a>
+</div>
+
 ### Hey there!
 My name is **John Bajor**. I'm a 23-year-old software developer currently based in New Orleans, LA. I graduated from <a href='https://www.lsu.edu/'>Louisiana State University</a> in 2024 with a Bachelor's in <a href='https://dmae.lsu.edu/'>Computer Science</a> and a Minor in <a href='https://dmae.lsu.edu/academics'>Digital Media Arts & Engineering</a>.
 
