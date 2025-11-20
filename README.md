@@ -81,8 +81,6 @@ I've always loved creating things that excite others — from [YouTube](https://
 
 > 🚧 **More projects coming soon!** Check back periodically to see what I'm building next.
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
