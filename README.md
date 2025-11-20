@@ -10,95 +10,100 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=41211f&center=true&vCenter=true&width=435&lines=Software+Developer;UI%2FUX+Designer;Project+Manager" alt="Typing SVG" /></a>
 </div>
 
-### Hey there!
-My name is **John Bajor**. I'm a 23-year-old software developer currently based in New Orleans, LA. I graduated from <a href='https://www.lsu.edu/'>Louisiana State University</a> in 2024 with a Bachelor's in <a href='https://dmae.lsu.edu/'>Computer Science</a> and a Minor in <a href='https://dmae.lsu.edu/academics'>Digital Media Arts & Engineering</a>.
+<br/>
 
-I have always loved creating things that excite others, like <a href='https://www.youtube.com/@theweeklydetour'>YouTube</a> videos in my room, a 7-year-long <a href='https://www.dndbeyond.com/'>Dungeons & Dragons</a> campaign with my friends (yes, really), and <a href='https://www.zenithsoftware.dev/'>Zenith Software</a>, a software development company I founded with my friends in college.
+## 👋 About Me
 
-So far, I've...
+Hey there! I'm **John Bajor**, a 23-year-old software developer based in **New Orleans, LA**. I graduated from [Louisiana State University](https://www.lsu.edu/) in 2024 with a Bachelor's in [Computer Science](https://dmae.lsu.edu/) and a Minor in [Digital Media Arts & Engineering](https://dmae.lsu.edu/academics).
 
-<ul>
-    <li>Co-Founded <a href='https://www.zenithsoftware.dev/'>Zenith Software</a> at age 19 with my best friends 💻</li>
-    <li>Gained industry experience through software/web development positions 🏆</li>
-    <li>Designed & Developed multiple software products for various companies across the United States 🚀</li>
-    <li>Managed to keep you on my page for this long... look at us! We've come so far as friends, you and I ❤️</li>
-</ul>
+I've always loved creating things that excite others — from [YouTube](https://www.youtube.com/@theweeklydetour) videos, to a 7-year-long [Dungeons & Dragons](https://www.dndbeyond.com/) campaign with my friends *(yes, really)*, to [Zenith Software](https://www.zenithsoftware.dev/), a software development company I founded with my friends in college.
+
+### 🎯 Journey So Far
+
+- 💻 **Co-Founded** [Zenith Software](https://www.zenithsoftware.dev/) at age 19 with my best friends
+- 🏆 **Gained** industry experience through multiple software/web development positions
+- 🚀 **Designed & Developed** software products for companies across the United States
+- ❤️ **Managed** to keep you on my page for this long... look at us! We've come so far as friends, you and I!
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+<br/>
+<img alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+### Tools & Design
+<br/>
+<img alt="GitHub" width="40px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img alt="Jira" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" />
+<img alt="Unity" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img alt="Photoshop" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img alt="XCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" />
+
+</div>
+
+
+## 💼 Featured Projects
+
+### 🌐 Websites
+
+| Project | Status | Description |
+|---------|--------|-------------|
+| [**JohnBajor.dev**](https://johnbajor.dev/) | ![Online](https://img.shields.io/badge/status-online-green?style=flat) | My personal portfolio showcasing projects, articles, and testimonials 🧙‍♂️ |
+| [**OutlawDefense.com**](https://outlawdefense.com/) | ![Online](https://img.shields.io/badge/status-online-green) | React-based website for a criminal defense practice in Houston, TX ⚖️ |
+| [**SpeakEasyBandBR.com**](https://speakeasybandbr.com/) | ![Online](https://img.shields.io/badge/status-online-green) | Digital showcase for my band featuring music and photos 🎸 |
+| [**OmarRamirezMusic.com**](https://omarramirezmusic.com/) | ![Online](https://img.shields.io/badge/status-online-green) | Portfolio site for NOLA-based professor and musician 🎺 |
+
+### 📱 Apps
+
+| Project | Status | Description |
+|---------|--------|-------------|
+| [**Dio**](https://zenithsoftware.dev/projectdescription?projectName=dio) | ![Beta](https://img.shields.io/badge/status-beta-yellow) | Skip bar lines by ordering drinks ahead — perfect for your night out 🍻 |
+| [**Earshot**](https://apps.apple.com/us/app/earshot-proximity-chat/id6471038992) | ![Online](https://img.shields.io/badge/status-online-green) | Location-based chatrooms that capture the pulse of your surroundings 👂🏻 |
+| [**Aura**](https://dashboard.auraadco.com/) | ![Online](https://img.shields.io/badge/status-online-green) | Real-time insights dashboard for cartop advertising campaigns 🚕 |
+
+### 🎮 Games
+
+| Project | Status | Description |
+|---------|--------|-------------|
+| [**BlackJack**](https://jjbajor.github.io/BlackJack-Game/) | ![Online](https://img.shields.io/badge/status-online-green) | Unity-based BlackJack game — feeling lucky? 🎰 |
+| [**Bug Squish**](https://jjbajor.github.io/Bug-Squish-Game/) | ![Online](https://img.shields.io/badge/status-online-green) | Race against time to squish all the bugs 🕷 |
+| [**Paint App**](https://jjbajor.github.io/Paint-App/) | ![Online](https://img.shields.io/badge/status-online-green) | A fun digital painting program — unleash your creativity 🎨 |
+
+> 🚧 **More projects coming soon!** Check back periodically to see what I'm building next.
 
 ---
 
-### 💼 Cool stuff I have experience with
-<img align="left" alt="JavaScript" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="HTML" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Figma" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="GitHub" width="36px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Java" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="TypeScript" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="C" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Jira" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" />
-<img align="left" alt="C#" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Unity" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="Photoshop" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="XCode" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" />
-
-<br/>
-<br/>
-
----
-
-### 💻 Even cooler stuff I've worked on
-
-#### Websites
-<a href="https://johnbajor.dev/">![JohnBajor.dev](https://img.shields.io/badge/johnbajor.dev-online-green?style=flat)</a> My personal website, showcasing my portfolio, news articles, testimonials, and more! 🧙‍♂️
-
-<a href="https://outlawdefense.com/">![OutlawDefense.com](https://img.shields.io/badge/outlawdefense.com-online-green)</a>
- A React-based website for a criminal defense practice in Houston, TX. ⚖️
-
-<a href="https://speakeasybandbr.com/">![SpeakEasyBandBR.com](https://img.shields.io/badge/speakeasybandbr.com-online-green)</a>
- A digital showcase for my band, featuring our music and photos. 🎸
-
-<a href="https://omarramirezmusic.com/">![OmarRamirezMusic.com](https://img.shields.io/badge/omarramirezmusic.com-online-green)</a>
- A portfolio site for NOLA-based professor and musician, Omar Ramirez. 🎺
-
-#### Apps
-<a href="https://zenithsoftware.dev/projectdescription?projectName=dio">![Dio](https://img.shields.io/badge/dio-beta-yellow)</a>
- Ditch the lines on your night out. Order your drinks ahead to skip the wait! 🍻
-
-<a href="https://apps.apple.com/us/app/earshot-proximity-chat/id6471038992">![Earshot](https://img.shields.io/badge/earshot-online-green)</a>
- Experience the pulse of your surroundings through Earshot's location-based chatrooms. 👂🏻
-
-<a href="https://dashboard.auraadco.com/">![Aura](https://img.shields.io/badge/aura-online-green)</a>
- Aura's powerful dashboard brings real-time insights to cartop advertising campaigns. 🚕
-
-#### Games
-<a href="https://jjbajor.github.io/BlackJack-Game/">![BlackJack Game](https://img.shields.io/badge/blackjack-online-green)</a>
- This is a BlackJack game I created in Unity! Are you feeling lucky? 🎰
-
-<a href="https://jjbajor.github.io/Bug-Squish-Game/">![Bug Squish Game](https://img.shields.io/badge/bug%20squish-online-green)</a>
- In this game, you have to squish all the bugs before time runs out! 🕷
-
-<a href="https://jjbajor.github.io/Paint-App/">![Paint App](https://img.shields.io/badge/paint%20app-online-green)</a>
- This is a fun program I created to simulate popular computer painting programs. Try it out! 🎨
-
-<br/>
-🚨🚧 This section is still under construction! Check back periodically to see more cool things I've created online. 🚧🚨
-
----
-
-### 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
     <a href="https://github.com/jjbajor/github-readme-activity-graph">
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jjbajor&theme=github-dark-dimmed" />
+        <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=jjbajor&theme=github-dark-dimmed" alt="Activity Graph" />
+    </a>
+    <a href="https://github.com/jjbajor/github-readme-stats">
+        <img width="60%" src="https://github-readme-stats-jade-mu-44.vercel.app/api?username=jjbajor&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/jjbajor/github-readme-streak-stats">
-        <img height=200 align="center" src="https://github-readme-streak-stats-jet-theta.vercel.app?user=jjbajor&theme=github-dark-dimmed&hide_border=false" />
+        <img width="60%" src="https://github-readme-streak-stats-jet-theta.vercel.app?user=jjbajor&theme=github-dark-dimmed&hide_border=false" alt="Streak Stats" />
     </a>
     <a href="https://github.com/jjbajor/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats-jade-mu-44.vercel.app/api/top-langs/?username=jjbajor&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+        <img width="60%" src="https://github-readme-stats-jade-mu-44.vercel.app/api/top-langs/?username=jjbajor&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </a>
-    <a href="https://github.com/jjbajor/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats-jade-mu-44.vercel.app/api?username=jjbajor&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-    </a>
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate.*
+
 </div>
