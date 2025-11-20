@@ -69,16 +69,16 @@ So far, I've...
 ### 📊 Stats
 
 <div align="center">
-<a href="https://github.com/jjbajor/github-readme-activity-graph">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jjbajor&theme=github-dark-dimmed" />
-</a>
-<a href="https://github.com/jjbajor/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-jade-mu-44.vercel.app/api?username=jjbajor&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</a>
-<a href="https://github.com/jjbajor/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-jade-mu-44.vercel.app/api/top-langs/?username=jjbajor&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320" />
-<a href="https://github.com/jjbajor/github-readme-streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats-jet-theta.vercel.app?user=jjbajor&theme=github-dark-dimmed&hide_border=false" />
-</a>
-</a>
+    <a href="https://github.com/jjbajor/github-readme-activity-graph">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jjbajor&theme=github-dark-dimmed" />
+    </a>
+    <a href="https://github.com/jjbajor/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats-jade-mu-44.vercel.app/api?username=jjbajor&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    </a>
+    <a href="https://github.com/jjbajor/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats-jade-mu-44.vercel.app/api/top-langs/?username=jjbajor&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320" />
+    </a>
+    <a href="https://github.com/jjbajor/github-readme-streak-stats">
+        <img height=200 align="center" src="https://github-readme-streak-stats-jet-theta.vercel.app?user=jjbajor&theme=github-dark-dimmed&hide_border=false" />
+    </a>
 </div>
