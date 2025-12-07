@@ -98,10 +98,19 @@ I've always loved creating things that excite others — from [YouTube](https://
     </a>
 </div>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjbajor/jjbajor/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jjbajor/jjbajor/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jjbajor/jjbajor/output/github-snake.svg" />
+</picture>
+
 ---
 
 <div align="center">
 
 *Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate.*
+
 
 </div>
