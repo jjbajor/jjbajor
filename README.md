@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Hey there! I'm **John Bajor**, a 23-year-old software developer based in **New Orleans, LA**. I graduated from [Louisiana State University](https://www.lsu.edu/) in 2024 with a Bachelor's in [Computer Science](https://dmae.lsu.edu/) and a Minor in [Digital Media Arts & Engineering](https://dmae.lsu.edu/academics).
+Hey there! I'm **John Bajor**, a 24-year-old software developer based in **New Orleans, LA**. I graduated from [Louisiana State University](https://www.lsu.edu/) in 2024 with a Bachelor's in [Computer Science](https://dmae.lsu.edu/) and a Minor in [Digital Media Arts & Engineering](https://dmae.lsu.edu/academics).
 
 I've always loved creating things that excite others — from [YouTube](https://www.youtube.com/@theweeklydetour) videos, to a 7-year-long [Dungeons & Dragons](https://www.dndbeyond.com/) campaign with my friends *(yes, really)*, to [Zenith Software](https://www.zenithsoftware.dev/), a software development company I founded with my friends in college.
 
