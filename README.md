@@ -85,7 +85,7 @@ I've always loved creating things that excite others — from [YouTube](https://
 
 <div align="center">
     <a href="https://github.com/jjbajor/github-readme-activity-graph">
-        <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=jjbajor&theme=github-dark-dimmed" alt="Activity Graph" />
+        <img width="60%" src="https://github-act-graph.rodriaum.com/graph?username=jjbajor&theme=github-dark-dimmed" alt="Activity Graph" />
     </a>
     <a href="https://github.com/jjbajor/github-readme-stats">
         <img width="60%" src="https://github-readme-stats-jade-mu-44.vercel.app/api?username=jjbajor&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
